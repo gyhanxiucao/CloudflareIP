@@ -1,0 +1,5 @@
+{
+  "name": "CloudflareIP",
+  "compatibility_date": "2026-01-12",
+  "main": "CF-Worker/_worker.js" 
+}
